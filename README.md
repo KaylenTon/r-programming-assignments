@@ -1,5 +1,5 @@
 # r-programming-assignments
 
-Kaylen Ton
-LIS4370
+Kaylen Ton <br>
+LIS4370 <br>
 Repository for R Programming Assignments
